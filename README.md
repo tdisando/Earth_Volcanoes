@@ -1,7 +1,5 @@
 # 🌋 Earth Volcanoes
 
-An interactive web map of global volcanic activity — combining Holocene volcanoes from the Global Volcanism Program and submarine/island volcanism from recent literature.
-
 ---
 
 ## What's in this map
